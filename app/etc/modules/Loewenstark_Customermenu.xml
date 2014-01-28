@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Loewenstark_Customermenu>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Customer />
+            </depends>
+        </Loewenstark_Customermenu>
+    </modules>
+</config>

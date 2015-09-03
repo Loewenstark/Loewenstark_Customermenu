@@ -1,0 +1,12 @@
+{
+    "name": "Loewenstark/Loewenstark_Customermenu",
+    "type": "magento-module",
+    "license": "GNU General Public License, version 3 (GPLv3)",
+    "homepage": "https://github.com/Loewenstark/Loewenstark_Customermenu",
+    "description": "Remove links in customer menu via layout.xml",
+    "authors": [
+        {
+            "name": "Mathis Klooß"
+        }
+    ]
+}

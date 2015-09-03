@@ -1,10 +1,17 @@
-# Löschen von Elementen im Kundenkonto
+# Remove links from customer menu via layout.xml
 
-per Layout XML
+Description
+-------------
+With this module you can remove links from the menu that logged in customers see via layout XML (files).
 
-Beispiel zum löschen vom Newsletter Eintrag im Menü
+Features
+-------------
+* Output is logged to customermenu.log
 
-LogFile-Ausgabe customermenu.log
+Usage example
+-------------
+
+Remove newsletter link from customer menu
 
 ```
 <layout>

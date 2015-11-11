@@ -1,5 +1,5 @@
 {
-    "name": "Loewenstark/Loewenstark_Customermenu",
+    "name": "loewenstark/customermenu",
     "type": "magento-module",
     "license": "GNU General Public License, version 3 (GPLv3)",
     "homepage": "https://github.com/Loewenstark/Loewenstark_Customermenu",
@@ -8,5 +8,8 @@
         {
             "name": "Mathis Klooß"
         }
-    ]
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
 }
